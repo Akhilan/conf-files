@@ -1,8 +1,9 @@
 My Configuration Files
 ======================
 
-### Syncing tmux with new configuration
+#### Syncing tmux with new configuration
       
-```tmux source-file ~/.tmux.conf
+```
+tmux source-file ~/.tmux.conf
 ```
       
