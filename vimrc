@@ -1,4 +1,3 @@
-
 if has("syntax")
   syntax on  							"to set syntax highlighting on
 endif
@@ -14,6 +13,7 @@ set undolevels=100
 set cmdheight=2
 set linebreak
 set hidden
+set ignorecase
 set smarttab 
 set autoindent smartindent
 set autoindent
