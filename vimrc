@@ -32,3 +32,11 @@ set ai 									"to set autoindent
 set wrap									"to set wordwrap
 set incsearch							"to search as you type
 set showmode							"to show the editing mode
+
+
+cmap W w                                              
+cmap Q q
+cmap WQ wq
+cmap Wq wq
+cmap wQ wq
+
